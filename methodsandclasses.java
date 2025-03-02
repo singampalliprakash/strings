@@ -23,9 +23,4 @@ public class Main
 	        System.out.println("nice to meeting you");
 	    }
 	}
-	
-	
-	
-	
-	
 }
